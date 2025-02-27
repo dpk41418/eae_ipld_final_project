@@ -54,15 +54,15 @@ def home_page():
     st.write("""
     - 🧑‍💻 I am a student at EAE Business, Masters in Big Data Analytics
 
-    - 🛩️ prev: <Previous Experience, Background or Studies>
+    - 🛩️ prev: I have worked as a Research Associate on Urban Economics and I have Master's Degree in Economics
 
-    - ❤️ <Your Passion and/or Interests>
+    - ❤️ Passionate about Data Science, Machine Learning and AI
 
-    - 🤖 <Your Personal Projects>
+    - 🤖 Empirical Analysis, Predictive Analytics, Machine Learning
 
-    - 🏂 <Your Hobbies>
+    - 🏂 Biking & Travelling
 
-    - 📫 How to reach me: <Your Email>
+    - 📫 How to reach me: dpk41418@gmail.com
 
     - 🏠 Barcelona
     """)
